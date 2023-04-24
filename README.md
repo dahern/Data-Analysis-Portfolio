@@ -7,7 +7,7 @@
 
 **Data Cleansing**
 The data-cleansing branch contains code and scripts used to clean raw data before analysis. 
-To access the data-cleansing branch, please click [here].(https://github.com/dahern/Data-Analysis-Portfolio/tree/data-cleansing)
+To access the data-cleansing branch, please click:(https://github.com/dahern/Data-Analysis-Portfolio/tree/data-cleansing)
 
 **Skills**: This section will highlight my core skills and competencies, including my proficiency in Python, data analysis, and machine learning.
 
