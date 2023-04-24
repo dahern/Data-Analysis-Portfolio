@@ -3,7 +3,7 @@
 The data-cleansing branch contains all the code and scripts used to clean the raw data before analysis. 
 This branch was created to ensure that the data used in the analysis is accurate and consistent.
 
-# data-Cleansing.py
+# data-cleansing.py
 A Python file that demonstrates data cleaning and preprocessing using the Pandas library. 
 This example focuses on cleaning a dataset with missing values, inconsistent formatting, and duplicate entries.
 
